@@ -12,3 +12,5 @@ This repository includes all the tasks/works done during the course of the MERN-
 Consists of - 
 1) 5 HTML tasks
 2) 7 CSS tasks
+3) 8 BOOTSTRAP tasks
+4) 4 Javascrip tasks
